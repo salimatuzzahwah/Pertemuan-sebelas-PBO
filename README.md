@@ -1,5 +1,6 @@
 # Pertemuan-sebelas-PBO
-# 	Persistence merupakan kemampuan suatu aplikasi untuk menyimpan dan mempertahankan data secara permanen di media penyimpanan, seperti basis data (database), file, atau layanan penyimpanan cloud. Dengan adanya persistence, data tidak akan hilang meskipun aplikasi ditutup, direstart, atau bahkan sistem dimatikan. Hal ini sangat penting dalam pengembangan aplikasi yang berhubungan dengan pengelolaan data secara berkelanjutan.
+# Persistence merupakan kemampuan suatu aplikasi untuk menyimpan dan mempertahankan data secara permanen di media penyimpanan, seperti basis data (database), file, atau layanan penyimpanan cloud. Dengan adanya persistence, data tidak akan hilang meskipun aplikasi ditutup, direstart, atau bahkan sistem dimatikan. Hal ini sangat penting dalam pengembangan aplikasi yang berhubungan dengan pengelolaan data secara berkelanjutan.
+# Langkah-langkah:
 1. Buat persistence unit dengan cara, klik kanan package – new – Entity Classes from Database
    <img width="701" height="446" alt="Screenshot 2025-10-28 145511" src="https://github.com/user-attachments/assets/7a5b5c5a-0947-4f2b-935a-892c61f434ed" />
 2. Pilih koneksi databasenya
